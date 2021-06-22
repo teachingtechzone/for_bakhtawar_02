@@ -1,0 +1,77 @@
+
+/* 
+h1{
+    color :dodgerblue
+}
+
+#myid{
+    color:blue;
+}
+.myclass {
+    color: brown;
+}
+
+span{
+    
+    color: chartreuse;
+}
+span{
+    
+    color: chartreuse !important;
+}
+
+h1, span , p {
+    background-color: darkgray;
+}
+
+p.myrandomclass{
+    background-color: darkgreen;
+}  
+div>span{
+    background-color: darkslateblue;
+} 
+ div span{
+    background-color: darkslateblue;
+} */
+/* 
+ul > li {
+    background-color: deepskyblue;
+} 
+ul  li {
+    background-color: deepskyblue;
+}
+
+ul + p{
+    font-size: larger;
+    color : brown
+} 
+ul ~ p{
+    font-size: larger;
+    color : brown
+} 
+
+*{
+    color:darkmagenta;
+    background-color: deepskyblue;
+}
+ h1, ol{
+    font-size: larger;
+}
+#myid1{
+
+
+ font-style: italic;
+}
+
+div>span{
+    background-color: darkred;
+} */
+
+/* div{
+    border: 1px solid gray;
+}
+
+span{
+    border: inherit;
+    border: 20px solid green;
+} */

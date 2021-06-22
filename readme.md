@@ -23,6 +23,7 @@ class - 2 saturday(12-06-2021)
 14. for free images [https://unsplash.com/]
 15. selection of same text `ctrl + D`
 
-class - 5
+class - 6
 1. inline and block level elements
 2. audio and video
+class - 7
