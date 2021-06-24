@@ -1,4 +1,4 @@
-#### course 3 months tuesday(08-06-2021) to (08-09-2021)
+#### course 3 months tuesday(08-06-2021) to (08-09-2021) (3 months)
 1. html
 2. css
 3. javascript
@@ -23,7 +23,18 @@ class - 2 saturday(12-06-2021)
 14. for free images [https://unsplash.com/]
 15. selection of same text `ctrl + D`
 
+### html completed 19-06-2021 html completed (2 weeks)
 class - 6
 1. inline and block level elements
 2. audio and video
 class - 7
+
+1. intorduction to css
+
+class - 8th 24-june-2021
+#### Road map
+1. html
+2. css
+3. website creation
+4. bootstrap
+5. js

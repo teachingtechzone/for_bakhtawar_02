@@ -1,0 +1,81 @@
+/* h1{
+    background-color: rgb(255, 0, 255);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    background-color: #ababab;
+}
+h3{
+    background-color: royalblue;
+}
+h4{
+    background-color: rgba(25, 44, 42, 0.671);
+}
+div.op{
+    background-color: seagreen;
+    opacity: 0.5;
+}
+
+h5{
+    background-color: hsla(100, 36%, 57%, 1)
+} */
+
+/* div.p{
+    font-size: 32px;
+}
+div.c{
+    font-size: 16px;
+} */
+/* div.p{
+    font-size: 100%;
+}
+div.c{
+    font-size: 50%;
+} */
+/* div.p{
+    font-size: 200%;
+}
+div.c{
+    font-size: 50%;
+} */
+/* div.p{
+    font-size: 2em;
+}
+div.c{
+    font-size: 2em;
+} */
+/* div.p{
+    font-size: 2rem;
+}
+div.c{
+    font-size: 2rem;
+} */
+/* a{
+    text-decoration: none;
+    line-height: 3px;
+}
+p{
+    text-align: justify;
+} */
+ /* img.a
+ {
+    vertical-align: text-top;} */
+
+    /* img.a
+    {
+       vertical-align: baseline;}
+       
+       h1{
+           background-color: indigo;
+           color: #abcdef;
+           text-shadow: 10px -40px 10px #105288a9;
+       }
+    */
+p::first-letter{
+    font-size: 50px;
+}
+/* p::first-line{
+    font-size: 50px;
+}
+     */
